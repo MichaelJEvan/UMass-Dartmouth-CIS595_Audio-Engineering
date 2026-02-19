@@ -6,4 +6,5 @@ DSP for developing a DAW (digital audio workstation) plugin
 - CIS 595 Independent Study
 - Create a VST3, AU, Stand-alone Delay plug-in
 - Utilize the JUCE Framework & C++
+- Note: JUCE framework files are not included in this repository, Source files are here for academic review purposes only.
 
