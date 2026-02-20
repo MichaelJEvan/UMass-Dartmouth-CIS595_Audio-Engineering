@@ -5,6 +5,7 @@ Digital Signal Processing for developing a DAW (digital audio workstation) plugi
 - Graduate Department of Computer Science
 - Spring 2026
 - CIS 595 Independent Study
+# Utilizing JUCE Framework and Modern C++
 - VST3, AU, Stand-alone Delay plug-in
 - Utilizes the JUCE Framework & Modern C++
 - Note: JUCE framework generated files not included in this repository
