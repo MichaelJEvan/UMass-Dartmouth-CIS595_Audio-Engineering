@@ -10,4 +10,3 @@ Digital Signal Processing for developing a DAW (digital audio workstation) plugi
 - C++ files located in "source" folder of this repository
 - Note: JUCE framework generated files necessary for generating the plugin are not included in this repository
 - Files provided for academic review purposes only
-
