@@ -1,5 +1,5 @@
 # UMass Dartmouth CIS595 Audio Engineering
-Digital Signal Processing for developing a DAW (digital audio workstation) plugin
+Digital Signal Processing for developing a DAW (digital audio workstation) & Stand-alone Audio Delay plugin
 - Michael J Evan
 - UMass Dartmouth
 - Graduate Department of Computer Science
