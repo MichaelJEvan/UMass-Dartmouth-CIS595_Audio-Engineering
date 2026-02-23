@@ -12,7 +12,7 @@ Digital Signal Processing for developing a DAW (digital audio workstation) plugi
 # Utilizing JUCE Framework | C++ | Xcode IDE
 - Cross platform VST3, AU, Stand-alone Delay plug-in
 - C++ files located in "source" folder of this repository
-- Note: JUCE framework generated files necessary for generating the plugin are not included in this repository
+- Note: JUCE framework Modules & Libraries necessary for generating the plugin are not included in this repository
 - JUCE framework allows for cross-platform plug-in development on a single local OS
 - Files provided for academic review purposes only
 
